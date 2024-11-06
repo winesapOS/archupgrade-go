@@ -21,3 +21,6 @@ archupgrade-go
 # Go workspace file
 go.work
 go.work.sum
+
+# VSCode
+.vscode
